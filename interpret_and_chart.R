@@ -27,7 +27,9 @@ agency_map = c(
   "XM-DAC-41140"="WFP",
   "XM-DAC-928"="WHO",
   "XI-IATI-UNPF"="UNPF",
-  "41120"="UN-HABITAT"
+  "41120"="UN-HABITAT",
+  "XM-DAC-47066"="IOM",
+  "XI-IATI-OCHASDC"="OCHASDC"
 )
 
 setwd("~/git/UNCEB-IATI-Analysis")

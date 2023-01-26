@@ -30,6 +30,8 @@ un_publisher_refs = [
     'XM-DAC-928', # WHO
     'XI-IATI-UNPF', # UNPF
     '41120', # UN-Habitat
+    'XM-DAC-47066' # IOM
+    'XI-IATI-OCHASDC', # OCHASDC
 ]
 
 base_url = 'https://api.iatistandard.org/datastore/activity/iati?q=(reporting_org_ref:"{}")&rows={}&start={}'
