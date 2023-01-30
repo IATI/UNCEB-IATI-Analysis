@@ -30,7 +30,7 @@ un_publisher_refs = [
     'XM-DAC-928', # WHO
     'XI-IATI-UNPF', # UNPF
     '41120', # UN-Habitat
-    'XM-DAC-47066' # IOM
+    'XM-DAC-47066', # IOM
     'XI-IATI-OCHASDC', # OCHASDC
 ]
 
