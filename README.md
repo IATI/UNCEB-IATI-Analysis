@@ -1,6 +1,17 @@
 # UNCEB-IATI-Analysis
 
+## Setup
+
+First, register for an API key here: https://developer.iatistandard.org/
+
+Next, create a `.env` file with the contents:
+
+```
+API_KEY=your-api-key-here
+```
+
 ## Installation
+
 ```
 python3 -m virtualenv venv
 source venv/bin/activate
