@@ -81,7 +81,7 @@ if __name__ == '__main__':
                         vocab_1_sector_code = len(activity.xpath("sector[@vocabulary='1' or not(@vocabulary)]|transaction/sector[@vocabulary='1' or not(@vocabulary)]")) > 0
                         output_row.append(vocab_1_sector_code)
 
-                        gender_marker = len(activity.xpath("policy-marker[(@vocabulary='1' or not(@vocabulary)) and @code='1' and not(@significance='0')]")) > 0
+                        gender_marker = len(activity.xpath("policy-marker[(@vocabulary='1' or not(@vocabulary)) and @code='1']")) > 0
                         output_row.append(gender_marker)
 
                         basic_activity_data = True
