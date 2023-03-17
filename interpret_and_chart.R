@@ -4,7 +4,7 @@ if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
 
 agency_map = c(
-  "XM-OCHA-CERF"="CERF",
+  # "XM-OCHA-CERF"="CERF",
   "XM-DAC-41301"="FAO",
   "XM-DAC-41108"="IFAD",
   "XM-DAC-41302"="ILO",
@@ -23,10 +23,10 @@ agency_map = c(
   "41AAA"="UNOPS",
   "XM-DAC-41130"="UNRWA",
   "XM-DAC-41146"="UN-WOMEN",
-  "XM-DAC-30010"="UNITAID",
+  # "XM-DAC-30010"="UNITAID",
   "XM-DAC-41140"="WFP",
   "XM-DAC-928"="WHO",
-  "XI-IATI-UNPF"="UNPF",
+  # "XI-IATI-UNPF"="UNPF",
   "41120"="UN-HABITAT",
   "XM-DAC-47066"="IOM",
   "XI-IATI-OCHASDC"="OCHASDC"
