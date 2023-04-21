@@ -1,0 +1,476 @@
+alpha_3,code,flag,name,percentage,visitors,agency
+ITA,IT,🇮🇹,Italy,44,15,FAO
+USA,US,🇺🇸,United States,9,3,FAO
+DEU,DE,🇩🇪,Germany,9,3,FAO
+NLD,NL,🇳🇱,Netherlands,9,3,FAO
+COL,CO,🇨🇴,Colombia,6,2,FAO
+GBR,GB,🇬🇧,United Kingdom,6,2,FAO
+NGA,NG,🇳🇬,Nigeria,6,2,FAO
+KEN,KE,🇰🇪,Kenya,3,1,FAO
+ESP,ES,🇪🇸,Spain,3,1,FAO
+SWE,SE,🇸🇪,Sweden,3,1,FAO
+JPN,JP,🇯🇵,Japan,3,1,FAO
+USA,US,🇺🇸,United States,46,6,FAO
+ITA,IT,🇮🇹,Italy,15,2,FAO
+SSD,SS,🇸🇸,South Sudan,8,1,FAO
+ZAF,ZA,🇿🇦,South Africa,8,1,FAO
+VNM,VN,🇻🇳,Vietnam,8,1,FAO
+GBR,GB,🇬🇧,United Kingdom,8,1,FAO
+GTM,GT,🇬🇹,Guatemala,8,1,FAO
+ITA,IT,🇮🇹,Italy,25,21,FAO
+USA,US,🇺🇸,United States,18,15,FAO
+NLD,NL,🇳🇱,Netherlands,12,10,FAO
+SWE,SE,🇸🇪,Sweden,6,5,FAO
+DEU,DE,🇩🇪,Germany,5,4,FAO
+BGD,BD,🇧🇩,Bangladesh,4,3,FAO
+ECU,EC,🇪🇨,Ecuador,4,3,FAO
+PHL,PH,🇵🇭,Philippines,2,2,FAO
+CAN,CA,🇨🇦,Canada,2,2,FAO
+GBR,GB,🇬🇧,United Kingdom,2,2,FAO
+MMR,MM,🇲🇲,Myanmar,2,2,FAO
+URY,UY,🇺🇾,Uruguay,2,2,FAO
+SSD,SS,🇸🇸,South Sudan,1,1,FAO
+ZAF,ZA,🇿🇦,South Africa,1,1,FAO
+NGA,NG,🇳🇬,Nigeria,1,1,FAO
+AUS,AU,🇦🇺,Australia,1,1,FAO
+SLV,SV,🇸🇻,El Salvador,1,1,FAO
+VNM,VN,🇻🇳,Vietnam,1,1,FAO
+ESP,ES,🇪🇸,Spain,1,1,FAO
+PRY,PY,🇵🇾,Paraguay,1,1,FAO
+BOL,BO,🇧🇴,Bolivia,1,1,FAO
+TUR,TR,🇹🇷,Turkey,1,1,FAO
+RWA,RW,🇷🇼,Rwanda,1,1,FAO
+JPN,JP,🇯🇵,Japan,1,1,FAO
+AUT,AT,🇦🇹,Austria,43,6,IFAD
+ITA,IT,🇮🇹,Italy,29,4,IFAD
+NLD,NL,🇳🇱,Netherlands,14,2,IFAD
+GBR,GB,🇬🇧,United Kingdom,7,1,IFAD
+USA,US,🇺🇸,United States,7,1,IFAD
+ITA,IT,🇮🇹,Italy,23,5,IFAD
+GBR,GB,🇬🇧,United Kingdom,18,4,IFAD
+RUS,RU,🇷🇺,Russian Federation,9,2,IFAD
+USA,US,🇺🇸,United States,9,2,IFAD
+VEN,VE,🇻🇪,Venezuela,5,1,IFAD
+IND,IN,🇮🇳,India,5,1,IFAD
+COL,CO,🇨🇴,Colombia,5,1,IFAD
+TZA,TZ,🇹🇿,Tanzania,5,1,IFAD
+ECU,EC,🇪🇨,Ecuador,5,1,IFAD
+HND,HN,🇭🇳,Honduras,5,1,IFAD
+TGO,TG,🇹🇬,Togo,5,1,IFAD
+CAN,CA,🇨🇦,Canada,5,1,IFAD
+HKG,HK,🇭🇰,Hong Kong,5,1,IFAD
+ITA,IT,🇮🇹,Italy,21,6,IFAD
+USA,US,🇺🇸,United States,18,5,IFAD
+AUT,AT,🇦🇹,Austria,14,4,IFAD
+FIN,FI,🇫🇮,Finland,7,2,IFAD
+TUR,TR,🇹🇷,Turkey,7,2,IFAD
+COD,CD,🇨🇩,"Congo, The Democratic Republic of the",7,2,IFAD
+GBR,GB,🇬🇧,United Kingdom,4,1,IFAD
+NLD,NL,🇳🇱,Netherlands,4,1,IFAD
+MNG,MN,🇲🇳,Mongolia,4,1,IFAD
+CHN,CN,🇨🇳,China,4,1,IFAD
+HND,HN,🇭🇳,Honduras,4,1,IFAD
+ESP,ES,🇪🇸,Spain,4,1,IFAD
+RUS,RU,🇷🇺,Russian Federation,4,1,IFAD
+CHE,CH,🇨🇭,Switzerland,55,11,ILO
+IND,IN,🇮🇳,India,15,3,ILO
+NLD,NL,🇳🇱,Netherlands,15,3,ILO
+SWE,SE,🇸🇪,Sweden,5,1,ILO
+FIN,FI,🇫🇮,Finland,5,1,ILO
+FRA,FR,🇫🇷,France,5,1,ILO
+PAK,PK,🇵🇰,Pakistan,50,1,ILO
+CHE,CH,🇨🇭,Switzerland,50,1,ILO
+CHE,CH,🇨🇭,Switzerland,58,15,ILO
+IND,IN,🇮🇳,India,12,3,ILO
+DEU,DE,🇩🇪,Germany,4,1,ILO
+MNG,MN,🇲🇳,Mongolia,4,1,ILO
+KEN,KE,🇰🇪,Kenya,4,1,ILO
+NLD,NL,🇳🇱,Netherlands,4,1,ILO
+SWE,SE,🇸🇪,Sweden,4,1,ILO
+TUR,TR,🇹🇷,Turkey,4,1,ILO
+ISR,IL,🇮🇱,Israel,4,1,ILO
+PAK,PK,🇵🇰,Pakistan,4,1,ILO
+CHE,CH,🇨🇭,Switzerland,70,7,ITC
+NLD,NL,🇳🇱,Netherlands,10,1,ITC
+NGA,NG,🇳🇬,Nigeria,10,1,ITC
+CHN,CN,🇨🇳,China,10,1,ITC
+KEN,KE,🇰🇪,Kenya,100,1,ITC
+KEN,KE,🇰🇪,Kenya,23,3,ITC
+NLD,NL,🇳🇱,Netherlands,23,3,ITC
+USA,US,🇺🇸,United States,15,2,ITC
+JOR,JO,🇯🇴,Jordan,8,1,ITC
+CHE,CH,🇨🇭,Switzerland,8,1,ITC
+SGP,SG,🇸🇬,Singapore,8,1,ITC
+NGA,NG,🇳🇬,Nigeria,8,1,ITC
+ZAF,ZA,🇿🇦,South Africa,8,1,ITC
+KEN,KE,🇰🇪,Kenya,75,6,UNEP
+NLD,NL,🇳🇱,Netherlands,13,1,UNEP
+FIN,FI,🇫🇮,Finland,13,1,UNEP
+SWE,SE,🇸🇪,Sweden,21,3,UNEP
+KEN,KE,🇰🇪,Kenya,14,2,UNEP
+RWA,RW,🇷🇼,Rwanda,7,1,UNEP
+DEU,DE,🇩🇪,Germany,7,1,UNEP
+MNG,MN,🇲🇳,Mongolia,7,1,UNEP
+ESP,ES,🇪🇸,Spain,7,1,UNEP
+EGY,EG,🇪🇬,Egypt,7,1,UNEP
+USA,US,🇺🇸,United States,7,1,UNEP
+RUS,RU,🇷🇺,Russian Federation,7,1,UNEP
+POL,PL,🇵🇱,Poland,7,1,UNEP
+AUS,AU,🇦🇺,Australia,7,1,UNEP
+CHE,CH,🇨🇭,Switzerland,36,4,UNAIDS
+NOR,NO,🇳🇴,Norway,18,2,UNAIDS
+NLD,NL,🇳🇱,Netherlands,18,2,UNAIDS
+DEU,DE,🇩🇪,Germany,18,2,UNAIDS
+ARE,AE,🇦🇪,United Arab Emirates,9,1,UNAIDS
+DEU,DE,🇩🇪,Germany,100,1,UNAIDS
+NLD,NL,🇳🇱,Netherlands,100,1,UNCDF
+CHE,CH,🇨🇭,Switzerland,100,1,UNCDF
+USA,US,🇺🇸,United States,100,1,UNCDF
+NLD,NL,🇳🇱,Netherlands,67,2,UNDCO
+USA,US,🇺🇸,United States,33,1,UNDCO
+NLD,NL,🇳🇱,Netherlands,25,1,UNDCO
+BLR,BY,🇧🇾,Belarus,25,1,UNDCO
+GTM,GT,🇬🇹,Guatemala,25,1,UNDCO
+MNG,MN,🇲🇳,Mongolia,25,1,UNDCO
+USA,US,🇺🇸,United States,43,9,UNDP
+SWE,SE,🇸🇪,Sweden,19,4,UNDP
+DEU,DE,🇩🇪,Germany,10,2,UNDP
+NLD,NL,🇳🇱,Netherlands,10,2,UNDP
+KEN,KE,🇰🇪,Kenya,5,1,UNDP
+GBR,GB,🇬🇧,United Kingdom,5,1,UNDP
+DNK,DK,🇩🇰,Denmark,5,1,UNDP
+CYP,CY,🇨🇾,Cyprus,5,1,UNDP
+USA,US,🇺🇸,United States,30,3,UNDP
+GBR,GB,🇬🇧,United Kingdom,20,2,UNDP
+BRA,BR,🇧🇷,Brazil,10,1,UNDP
+EGY,EG,🇪🇬,Egypt,10,1,UNDP
+PRY,PY,🇵🇾,Paraguay,10,1,UNDP
+THA,TH,🇹🇭,Thailand,10,1,UNDP
+AUS,AU,🇦🇺,Australia,10,1,UNDP
+NLD,NL,🇳🇱,Netherlands,19,27,UNDP
+USA,US,🇺🇸,United States,13,19,UNDP
+GBR,GB,🇬🇧,United Kingdom,10,14,UNDP
+SWE,SE,🇸🇪,Sweden,6,9,UNDP
+DEU,DE,🇩🇪,Germany,4,6,UNDP
+PRY,PY,🇵🇾,Paraguay,3,5,UNDP
+CHE,CH,🇨🇭,Switzerland,3,4,UNDP
+YEM,YE,🇾🇪,Yemen,3,4,UNDP
+KEN,KE,🇰🇪,Kenya,2,3,UNDP
+BRA,BR,🇧🇷,Brazil,2,3,UNDP
+LBR,LR,🇱🇷,Liberia,2,3,UNDP
+DNK,DK,🇩🇰,Denmark,2,3,UNDP
+COL,CO,🇨🇴,Colombia,1,2,UNDP
+PAK,PK,🇵🇰,Pakistan,1,2,UNDP
+COD,CD,🇨🇩,"Congo, The Democratic Republic of the",1,2,UNDP
+KOR,KR,🇰🇷,South Korea,1,2,UNDP
+FRA,FR,🇫🇷,France,1,2,UNDP
+UKR,UA,🇺🇦,Ukraine,1,2,UNDP
+EGY,EG,🇪🇬,Egypt,1,2,UNDP
+AUT,AT,🇦🇹,Austria,1,2,UNDP
+JPN,JP,🇯🇵,Japan,1,1,UNDP
+POL,PL,🇵🇱,Poland,1,1,UNDP
+CHN,CN,🇨🇳,China,1,1,UNDP
+AUS,AU,🇦🇺,Australia,1,1,UNDP
+GEO,GE,🇬🇪,Georgia,1,1,UNDP
+BRB,BB,🇧🇧,Barbados,1,1,UNDP
+BLR,BY,🇧🇾,Belarus,1,1,UNDP
+SEN,SN,🇸🇳,Senegal,1,1,UNDP
+MNG,MN,🇲🇳,Mongolia,1,1,UNDP
+BEL,BE,🇧🇪,Belgium,1,1,UNDP
+NGA,NG,🇳🇬,Nigeria,1,1,UNDP
+LBY,LY,🇱🇾,Libya,1,1,UNDP
+IRL,IE,🇮🇪,Ireland,1,1,UNDP
+CAN,CA,🇨🇦,Canada,1,1,UNDP
+BIH,BA,🇧🇦,Bosnia and Herzegovina,1,1,UNDP
+AZE,AZ,🇦🇿,Azerbaijan,1,1,UNDP
+MMR,MM,🇲🇲,Myanmar,1,1,UNDP
+TUR,TR,🇹🇷,Turkey,1,1,UNDP
+ISR,IL,🇮🇱,Israel,1,1,UNDP
+IDN,ID,🇮🇩,Indonesia,1,1,UNDP
+MKD,MK,🇲🇰,North Macedonia,1,1,UNDP
+NOR,NO,🇳🇴,Norway,1,1,UNDP
+MEX,MX,🇲🇽,Mexico,1,1,UNDP
+ESP,ES,🇪🇸,Spain,1,1,UNDP
+ITA,IT,🇮🇹,Italy,1,1,UNDP
+TUN,TN,🇹🇳,Tunisia,1,1,UNDP
+FIN,FI,🇫🇮,Finland,1,1,UNDP
+CYP,CY,🇨🇾,Cyprus,1,1,UNDP
+DEU,DE,🇩🇪,Germany,67,2,UNESCO
+NLD,NL,🇳🇱,Netherlands,33,1,UNESCO
+SWE,SE,🇸🇪,Sweden,100,1,UNESCO
+KEN,KE,🇰🇪,Kenya,25,2,UNESCO
+GBR,GB,🇬🇧,United Kingdom,25,2,UNESCO
+DEU,DE,🇩🇪,Germany,25,2,UNESCO
+SWE,SE,🇸🇪,Sweden,13,1,UNESCO
+NLD,NL,🇳🇱,Netherlands,13,1,UNESCO
+USA,US,🇺🇸,United States,38,3,UNFPA
+NLD,NL,🇳🇱,Netherlands,25,2,UNFPA
+GBR,GB,🇬🇧,United Kingdom,13,1,UNFPA
+NZL,NZ,🇳🇿,New Zealand,13,1,UNFPA
+DEU,DE,🇩🇪,Germany,13,1,UNFPA
+DEU,DE,🇩🇪,Germany,25,1,UNFPA
+YEM,YE,🇾🇪,Yemen,25,1,UNFPA
+USA,US,🇺🇸,United States,25,1,UNFPA
+GBR,GB,🇬🇧,United Kingdom,25,1,UNFPA
+GBR,GB,🇬🇧,United Kingdom,19,3,UNFPA
+DEU,DE,🇩🇪,Germany,13,2,UNFPA
+JPN,JP,🇯🇵,Japan,13,2,UNFPA
+YEM,YE,🇾🇪,Yemen,13,2,UNFPA
+MNG,MN,🇲🇳,Mongolia,6,1,UNFPA
+KEN,KE,🇰🇪,Kenya,6,1,UNFPA
+FRA,FR,🇫🇷,France,6,1,UNFPA
+PRY,PY,🇵🇾,Paraguay,6,1,UNFPA
+USA,US,🇺🇸,United States,6,1,UNFPA
+TUR,TR,🇹🇷,Turkey,6,1,UNFPA
+TZA,TZ,🇹🇿,Tanzania,6,1,UNFPA
+CHE,CH,🇨🇭,Switzerland,40,10,UNHCR
+DEU,DE,🇩🇪,Germany,20,5,UNHCR
+NLD,NL,🇳🇱,Netherlands,8,2,UNHCR
+AUS,AU,🇦🇺,Australia,8,2,UNHCR
+TUR,TR,🇹🇷,Turkey,4,1,UNHCR
+GBR,GB,🇬🇧,United Kingdom,4,1,UNHCR
+USA,US,🇺🇸,United States,4,1,UNHCR
+SWE,SE,🇸🇪,Sweden,4,1,UNHCR
+PHL,PH,🇵🇭,Philippines,4,1,UNHCR
+DNK,DK,🇩🇰,Denmark,4,1,UNHCR
+BGR,BG,🇧🇬,Bulgaria,11,1,UNHCR
+CHE,CH,🇨🇭,Switzerland,11,1,UNHCR
+NLD,NL,🇳🇱,Netherlands,11,1,UNHCR
+AUT,AT,🇦🇹,Austria,11,1,UNHCR
+RUS,RU,🇷🇺,Russian Federation,11,1,UNHCR
+IRQ,IQ,🇮🇶,Iraq,11,1,UNHCR
+BGD,BD,🇧🇩,Bangladesh,11,1,UNHCR
+USA,US,🇺🇸,United States,11,1,UNHCR
+LBY,LY,🇱🇾,Libya,11,1,UNHCR
+CHE,CH,🇨🇭,Switzerland,56,22,UNHCR
+FRA,FR,🇫🇷,France,10,4,UNHCR
+TUR,TR,🇹🇷,Turkey,8,3,UNHCR
+USA,US,🇺🇸,United States,5,2,UNHCR
+PHL,PH,🇵🇭,Philippines,5,2,UNHCR
+SWE,SE,🇸🇪,Sweden,3,1,UNHCR
+AUT,AT,🇦🇹,Austria,3,1,UNHCR
+GBR,GB,🇬🇧,United Kingdom,3,1,UNHCR
+SDN,SD,🇸🇩,Sudan,3,1,UNHCR
+LBY,LY,🇱🇾,Libya,3,1,UNHCR
+DNK,DK,🇩🇰,Denmark,3,1,UNHCR
+USA,US,🇺🇸,United States,25,9,UNICEF
+DEU,DE,🇩🇪,Germany,14,5,UNICEF
+IND,IN,🇮🇳,India,11,4,UNICEF
+CHE,CH,🇨🇭,Switzerland,11,4,UNICEF
+AUS,AU,🇦🇺,Australia,8,3,UNICEF
+GBR,GB,🇬🇧,United Kingdom,6,2,UNICEF
+NLD,NL,🇳🇱,Netherlands,6,2,UNICEF
+SEN,SN,🇸🇳,Senegal,6,2,UNICEF
+ROU,RO,🇷🇴,Romania,3,1,UNICEF
+EGY,EG,🇪🇬,Egypt,3,1,UNICEF
+NPL,NP,🇳🇵,Nepal,3,1,UNICEF
+ARE,AE,🇦🇪,United Arab Emirates,3,1,UNICEF
+IRL,IE,🇮🇪,Ireland,3,1,UNICEF
+USA,US,🇺🇸,United States,33,4,UNICEF
+GBR,GB,🇬🇧,United Kingdom,17,2,UNICEF
+KEN,KE,🇰🇪,Kenya,8,1,UNICEF
+SWE,SE,🇸🇪,Sweden,8,1,UNICEF
+ISR,IL,🇮🇱,Israel,8,1,UNICEF
+YEM,YE,🇾🇪,Yemen,8,1,UNICEF
+TZA,TZ,🇹🇿,Tanzania,8,1,UNICEF
+IRL,IE,🇮🇪,Ireland,8,1,UNICEF
+FRA,FR,🇫🇷,France,100,1,UNICEF
+POL,PL,🇵🇱,Poland,50,1,UNIDO
+NLD,NL,🇳🇱,Netherlands,50,1,UNIDO
+UZB,UZ,🇺🇿,Uzbekistan,50,1,UNIDO
+ETH,ET,🇪🇹,Ethiopia,50,1,UNIDO
+USA,US,🇺🇸,United States,22,4,UNIDO
+UZB,UZ,🇺🇿,Uzbekistan,17,3,UNIDO
+ETH,ET,🇪🇹,Ethiopia,11,2,UNIDO
+KEN,KE,🇰🇪,Kenya,11,2,UNIDO
+DEU,DE,🇩🇪,Germany,6,1,UNIDO
+BGR,BG,🇧🇬,Bulgaria,6,1,UNIDO
+AZE,AZ,🇦🇿,Azerbaijan,6,1,UNIDO
+TUR,TR,🇹🇷,Turkey,6,1,UNIDO
+EGY,EG,🇪🇬,Egypt,6,1,UNIDO
+TWN,TW,🇹🇼,Taiwan,6,1,UNIDO
+BRA,BR,🇧🇷,Brazil,6,1,UNIDO
+DEU,DE,🇩🇪,Germany,40,2,UNOCHA
+USA,US,🇺🇸,United States,20,1,UNOCHA
+GBR,GB,🇬🇧,United Kingdom,20,1,UNOCHA
+NLD,NL,🇳🇱,Netherlands,20,1,UNOCHA
+GBR,GB,🇬🇧,United Kingdom,100,1,UNOCHA
+USA,US,🇺🇸,United States,50,1,UNOCHA
+LBY,LY,🇱🇾,Libya,50,1,UNOCHA
+DNK,DK,🇩🇰,Denmark,33,2,UNOPS
+NLD,NL,🇳🇱,Netherlands,33,2,UNOPS
+USA,US,🇺🇸,United States,17,1,UNOPS
+GBR,GB,🇬🇧,United Kingdom,17,1,UNOPS
+DEU,DE,🇩🇪,Germany,100,1,UNOPS
+GBR,GB,🇬🇧,United Kingdom,27,4,UNOPS
+DNK,DK,🇩🇰,Denmark,27,4,UNOPS
+MNG,MN,🇲🇳,Mongolia,13,2,UNOPS
+USA,US,🇺🇸,United States,7,1,UNOPS
+SWE,SE,🇸🇪,Sweden,7,1,UNOPS
+FRA,FR,🇫🇷,France,7,1,UNOPS
+CHN,CN,🇨🇳,China,7,1,UNOPS
+NLD,NL,🇳🇱,Netherlands,7,1,UNOPS
+DEU,DE,🇩🇪,Germany,22,2,UNRWA
+JOR,JO,🇯🇴,Jordan,22,2,UNRWA
+ESP,ES,🇪🇸,Spain,11,1,UNRWA
+NLD,NL,🇳🇱,Netherlands,11,1,UNRWA
+AUT,AT,🇦🇹,Austria,11,1,UNRWA
+ITA,IT,🇮🇹,Italy,11,1,UNRWA
+DNK,DK,🇩🇰,Denmark,11,1,UNRWA
+PSE,PS,🇵🇸,"Palestine, State of",20,1,UNRWA
+JOR,JO,🇯🇴,Jordan,20,1,UNRWA
+FRA,FR,🇫🇷,France,20,1,UNRWA
+ITA,IT,🇮🇹,Italy,20,1,UNRWA
+DNK,DK,🇩🇰,Denmark,20,1,UNRWA
+USA,US,🇺🇸,United States,40,4,UN-WOMEN
+DEU,DE,🇩🇪,Germany,30,3,UN-WOMEN
+NLD,NL,🇳🇱,Netherlands,10,1,UN-WOMEN
+IND,IN,🇮🇳,India,10,1,UN-WOMEN
+CHE,CH,🇨🇭,Switzerland,10,1,UN-WOMEN
+GBR,GB,🇬🇧,United Kingdom,100,1,UN-WOMEN
+USA,US,🇺🇸,United States,32,6,UN-WOMEN
+KEN,KE,🇰🇪,Kenya,21,4,UN-WOMEN
+AUS,AU,🇦🇺,Australia,11,2,UN-WOMEN
+DEU,DE,🇩🇪,Germany,11,2,UN-WOMEN
+PAK,PK,🇵🇰,Pakistan,5,1,UN-WOMEN
+TUR,TR,🇹🇷,Turkey,5,1,UN-WOMEN
+IND,IN,🇮🇳,India,5,1,UN-WOMEN
+NLD,NL,🇳🇱,Netherlands,5,1,UN-WOMEN
+CHE,CH,🇨🇭,Switzerland,5,1,UN-WOMEN
+DEU,DE,🇩🇪,Germany,42,8,WFP
+CHE,CH,🇨🇭,Switzerland,16,3,WFP
+TUR,TR,🇹🇷,Turkey,11,2,WFP
+GBR,GB,🇬🇧,United Kingdom,11,2,WFP
+YEM,YE,🇾🇪,Yemen,5,1,WFP
+USA,US,🇺🇸,United States,5,1,WFP
+NLD,NL,🇳🇱,Netherlands,5,1,WFP
+IRL,IE,🇮🇪,Ireland,5,1,WFP
+USA,US,🇺🇸,United States,35,7,WFP
+TUR,TR,🇹🇷,Turkey,5,1,WFP
+FRA,FR,🇫🇷,France,5,1,WFP
+MDA,MD,🇲🇩,Moldova,5,1,WFP
+DEU,DE,🇩🇪,Germany,5,1,WFP
+UGA,UG,🇺🇬,Uganda,5,1,WFP
+GBR,GB,🇬🇧,United Kingdom,5,1,WFP
+RUS,RU,🇷🇺,Russian Federation,5,1,WFP
+ESP,ES,🇪🇸,Spain,5,1,WFP
+UKR,UA,🇺🇦,Ukraine,5,1,WFP
+TZA,TZ,🇹🇿,Tanzania,5,1,WFP
+IRQ,IQ,🇮🇶,Iraq,5,1,WFP
+JPN,JP,🇯🇵,Japan,5,1,WFP
+THA,TH,🇹🇭,Thailand,5,1,WFP
+USA,US,🇺🇸,United States,19,6,WFP
+CHE,CH,🇨🇭,Switzerland,16,5,WFP
+YEM,YE,🇾🇪,Yemen,13,4,WFP
+TUR,TR,🇹🇷,Turkey,6,2,WFP
+DEU,DE,🇩🇪,Germany,6,2,WFP
+NLD,NL,🇳🇱,Netherlands,6,2,WFP
+SLV,SV,🇸🇻,El Salvador,3,1,WFP
+MDA,MD,🇲🇩,Moldova,3,1,WFP
+SDN,SD,🇸🇩,Sudan,3,1,WFP
+FRA,FR,🇫🇷,France,3,1,WFP
+COD,CD,🇨🇩,"Congo, The Democratic Republic of the",3,1,WFP
+SYR,SY,🇸🇾,Syrian Arab Republic,3,1,WFP
+GBR,GB,🇬🇧,United Kingdom,3,1,WFP
+ITA,IT,🇮🇹,Italy,3,1,WFP
+TZA,TZ,🇹🇿,Tanzania,3,1,WFP
+IRL,IE,🇮🇪,Ireland,3,1,WFP
+DEU,DE,🇩🇪,Germany,33,3,WHO
+GBR,GB,🇬🇧,United Kingdom,22,2,WHO
+KEN,KE,🇰🇪,Kenya,22,2,WHO
+NLD,NL,🇳🇱,Netherlands,22,2,WHO
+YEM,YE,🇾🇪,Yemen,50,1,WHO
+DEU,DE,🇩🇪,Germany,50,1,WHO
+DEU,DE,🇩🇪,Germany,17,5,WHO
+GBR,GB,🇬🇧,United Kingdom,14,4,WHO
+USA,US,🇺🇸,United States,10,3,WHO
+NGA,NG,🇳🇬,Nigeria,10,3,WHO
+NLD,NL,🇳🇱,Netherlands,7,2,WHO
+SWE,SE,🇸🇪,Sweden,7,2,WHO
+YEM,YE,🇾🇪,Yemen,7,2,WHO
+KEN,KE,🇰🇪,Kenya,3,1,WHO
+IRL,IE,🇮🇪,Ireland,3,1,WHO
+SRB,RS,🇷🇸,Serbia,3,1,WHO
+MNG,MN,🇲🇳,Mongolia,3,1,WHO
+BEL,BE,🇧🇪,Belgium,3,1,WHO
+TUR,TR,🇹🇷,Turkey,3,1,WHO
+JPN,JP,🇯🇵,Japan,3,1,WHO
+POL,PL,🇵🇱,Poland,3,1,WHO
+NLD,NL,🇳🇱,Netherlands,100,1,UN-HABITAT
+ISR,IL,🇮🇱,Israel,31,5,UN-HABITAT
+IND,IN,🇮🇳,India,13,2,UN-HABITAT
+NLD,NL,🇳🇱,Netherlands,13,2,UN-HABITAT
+BFA,BF,🇧🇫,Burkina Faso,6,1,UN-HABITAT
+MNG,MN,🇲🇳,Mongolia,6,1,UN-HABITAT
+SWE,SE,🇸🇪,Sweden,6,1,UN-HABITAT
+BEL,BE,🇧🇪,Belgium,6,1,UN-HABITAT
+GBR,GB,🇬🇧,United Kingdom,6,1,UN-HABITAT
+UGA,UG,🇺🇬,Uganda,6,1,UN-HABITAT
+USA,US,🇺🇸,United States,6,1,UN-HABITAT
+CHE,CH,🇨🇭,Switzerland,35,9,IOM
+NLD,NL,🇳🇱,Netherlands,23,6,IOM
+IND,IN,🇮🇳,India,12,3,IOM
+DEU,DE,🇩🇪,Germany,8,2,IOM
+THA,TH,🇹🇭,Thailand,8,2,IOM
+DNK,DK,🇩🇰,Denmark,4,1,IOM
+AUT,AT,🇦🇹,Austria,4,1,IOM
+GBR,GB,🇬🇧,United Kingdom,4,1,IOM
+NOR,NO,🇳🇴,Norway,4,1,IOM
+PHL,PH,🇵🇭,Philippines,39,9,IOM
+NLD,NL,🇳🇱,Netherlands,9,2,IOM
+AUT,AT,🇦🇹,Austria,9,2,IOM
+MMR,MM,🇲🇲,Myanmar,9,2,IOM
+VNM,VN,🇻🇳,Vietnam,4,1,IOM
+FRA,FR,🇫🇷,France,4,1,IOM
+GBR,GB,🇬🇧,United Kingdom,4,1,IOM
+CHE,CH,🇨🇭,Switzerland,4,1,IOM
+ESP,ES,🇪🇸,Spain,4,1,IOM
+ITA,IT,🇮🇹,Italy,4,1,IOM
+NOR,NO,🇳🇴,Norway,4,1,IOM
+FIN,FI,🇫🇮,Finland,4,1,IOM
+GBR,GB,🇬🇧,United Kingdom,14,8,IOM
+USA,US,🇺🇸,United States,9,5,IOM
+DEU,DE,🇩🇪,Germany,9,5,IOM
+NLD,NL,🇳🇱,Netherlands,9,5,IOM
+COL,CO,🇨🇴,Colombia,5,3,IOM
+YEM,YE,🇾🇪,Yemen,5,3,IOM
+PHL,PH,🇵🇭,Philippines,5,3,IOM
+NOR,NO,🇳🇴,Norway,5,3,IOM
+CHE,CH,🇨🇭,Switzerland,4,2,IOM
+MNG,MN,🇲🇳,Mongolia,4,2,IOM
+PAK,PK,🇵🇰,Pakistan,4,2,IOM
+UKR,UA,🇺🇦,Ukraine,4,2,IOM
+ESP,ES,🇪🇸,Spain,2,1,IOM
+SWE,SE,🇸🇪,Sweden,2,1,IOM
+IND,IN,🇮🇳,India,2,1,IOM
+MOZ,MZ,🇲🇿,Mozambique,2,1,IOM
+DNK,DK,🇩🇰,Denmark,2,1,IOM
+BDI,BI,🇧🇮,Burundi,2,1,IOM
+KEN,KE,🇰🇪,Kenya,2,1,IOM
+CRI,CR,🇨🇷,Costa Rica,2,1,IOM
+NGA,NG,🇳🇬,Nigeria,2,1,IOM
+FRA,FR,🇫🇷,France,2,1,IOM
+TUR,TR,🇹🇷,Turkey,2,1,IOM
+NIC,NI,🇳🇮,Nicaragua,2,1,IOM
+MRT,MR,🇲🇷,Mauritania,2,1,IOM
+AUT,AT,🇦🇹,Austria,2,1,IOM
+USA,US,🇺🇸,United States,19,7,OCHASDC
+GBR,GB,🇬🇧,United Kingdom,14,5,OCHASDC
+KEN,KE,🇰🇪,Kenya,14,5,OCHASDC
+NLD,NL,🇳🇱,Netherlands,8,3,OCHASDC
+DEU,DE,🇩🇪,Germany,8,3,OCHASDC
+AUT,AT,🇦🇹,Austria,8,3,OCHASDC
+ROU,RO,🇷🇴,Romania,6,2,OCHASDC
+PER,PE,🇵🇪,Peru,6,2,OCHASDC
+CAF,CF,🇨🇫,Central African Republic,3,1,OCHASDC
+UGA,UG,🇺🇬,Uganda,3,1,OCHASDC
+CHE,CH,🇨🇭,Switzerland,3,1,OCHASDC
+CAN,CA,🇨🇦,Canada,3,1,OCHASDC
+DNK,DK,🇩🇰,Denmark,3,1,OCHASDC
+RUS,RU,🇷🇺,Russian Federation,3,1,OCHASDC
+KEN,KE,🇰🇪,Kenya,36,4,OCHASDC
+PER,PE,🇵🇪,Peru,18,2,OCHASDC
+GBR,GB,🇬🇧,United Kingdom,18,2,OCHASDC
+MKD,MK,🇲🇰,North Macedonia,9,1,OCHASDC
+AUT,AT,🇦🇹,Austria,9,1,OCHASDC
+NLD,NL,🇳🇱,Netherlands,9,1,OCHASDC
